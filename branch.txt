@@ -1,6 +1,0 @@
-new info for branch
-<<<<<<< HEAD
-third line
-=======
-first line
->>>>>>> new
